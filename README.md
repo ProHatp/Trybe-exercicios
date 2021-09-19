@@ -22,7 +22,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 3-3: *H*TML & CSS - HTML & CSS - Seletores e posicionamento
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 3-4: *H*TML & CSS - HTML Semântico
  - **[![enter image description here](https://i.imgur.com/r05KYeQ.png)] 3-5: *P*rojeto - Lessons Learned**
-##### Bloco 04: JavaScript: DOM, Eventos e Web Storage
+##### Bloco 04: Introdução à JavaScript e Lógica de Programação
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 4-1: *I*ntrodução - JavaScript
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 4-1: *J*avaScript - Primeiros passos
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 4-2: *J*avaScript - Array e loop For
