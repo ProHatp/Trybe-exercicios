@@ -29,7 +29,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 4-3: *J*avaScript - Lógica de Programação e Algoritmos
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 4-4: *J*avaScript - Objetos e funções
  - **[![enter image description here](https://i.imgur.com/r05KYeQ.png)] 4-5: *P*rojeto - Playground Functions**
-##### Bloco 05: HTML e CSS: Forms, Flexbox e Responsivo
+##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 5-1: *J*avaScript - DOM e seletores
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 5-2: *J*avaScript - Trabalhando com elementos
  - [![enter image description here](https://i.imgur.com/r05KYeQ.png)] 5-3: *J*avaScript - Eventos
